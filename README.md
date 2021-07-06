@@ -1,1 +1,1 @@
-# actividad-obligatoria-java-2
+# actividades-obligatorias-Java
